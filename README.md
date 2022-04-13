@@ -1,1 +1,1 @@
-# Hand Tracking in OpenCV and transfering point to Unity
+# Hand Tracking in OpenCV and transfering points to Unity
